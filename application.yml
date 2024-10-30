@@ -1,1 +1,1 @@
-spring.application.name:Micro_Configuration
+spring:application:name:Micro_Configuration
